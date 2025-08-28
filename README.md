@@ -1,8 +1,8 @@
 # 💫 About Me:
 Actualmente trabajo en empresas familiares dedicada al turismo no convencional durante todo el año y en temporada de invierno en un rental de ski, indumentaria y accesorios.
 Como así tambien en un lavadero automático de vehiculos durante todo el año.<br>
-<br>Como diciplina diaria tenngo inculcado desde muy chico la práctica y realización de deportes al aire libre. Por lo general enytre semana gimnasio y los fin de semana o feriados salgo para la naturaleza como el campo o la montaña.<br>
-Como deportes fijos me gusta anadar en moto, en bici, correr, hacer trekkings y salidas en vehículos 4x4.<br>
+<br>Como diciplina diaria tengo inculcado desde muy chico la práctica y realización de deportes al aire libre. Por lo general entre semana gimnasio y los fin de semana o feriados salgo a la naturaleza como es ir al campo o la montaña.<br>
+Mis deportes fijos son: andar en moto o bici, correr, hacer trekkings y salidas en vehículos 4x4.<br>
 <br>Actualmente estudio en UTN FRSR la Tecnicatura en Programación.
 
 
