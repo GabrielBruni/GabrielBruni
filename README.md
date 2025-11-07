@@ -1,11 +1,11 @@
-# ✋!HOLA! Me llamo Gabriel Bruni. bienvenidos... 
+# ✋!HOLA! Me llamo Gabriel Bruni. Bienvenidos... 
+
+Soy un estudiante de Tecnicatura en Programación en la UTN FRSR. Actualmente, estoy enfocado en el desarrollo con Java y JavaScript, y busco aplicar mis conocimientos en proyectos que involucran Cloud (Google Cloud) y tecnologías web (HTML/CSS).
+
+Cuando no estoy programando, me dedico al turismo no convencional y al alquiler de equipos de deportes de invierno. Soy un entusiasta de los deportes al aire libre: moto, bicicleta, trekking y 4x4.
+
 Actualmente trabajo en empresas familiares dedicada al turismo no convencional durante todo el año y en temporada de invierno en un rental de ski, indumentaria y accesorios.
-Como así tambien en un lavadero automático de vehiculos durante todo el año.<br>
-<br>Como diciplina diaria tengo inculcado desde muy chico la práctica y realización de deportes al aire libre. Por lo general entre semana gimnasio y los fin de semana o feriados salgo a la naturaleza como es ir al campo o la montaña.<br>
-Mis deportes fijos son: andar en moto o bici, correr, hacer trekkings y salidas en vehículos 4x4.<br>
-<br>Actualmente estudio en UTN FRSR la Tecnicatura en Programación.
-
-
+Como así tambien estoy encargado de un lavadero automático de vehiculos autolavado abierto durante el día los 365 días del año.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Gaby Bruni) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brunigaby) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gaby Bruni) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gabybruni20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gabybruni2474) 
 
